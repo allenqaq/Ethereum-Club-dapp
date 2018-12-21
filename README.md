@@ -13,7 +13,9 @@ smart contract dome code in the contract folder
 3. The abilities of the basketball player can be improved by training. We have 3 ways of traning.
 
     plan1: increasing shoot and speed.
+    
     plan2: increasing defense.
+    
     plan3: increasing strength.
     
     You will need to spend the training point in order to executing traning plan.
