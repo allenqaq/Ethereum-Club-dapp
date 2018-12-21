@@ -26,6 +26,6 @@ smart contract dome code in the contract folder
     
     
     
-4. There are 10 basketball players you can have. 5 for lineup and 5 for substitution. You need to change the linup and draft
+4. There are 10 basketball players you can have. 5 for lineup and 5 for substitution. You need to change the linup and 
 
-   of the players during the game.
+   draft of the players during the game.
