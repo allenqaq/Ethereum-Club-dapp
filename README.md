@@ -7,6 +7,7 @@ smart contract dome code in the contract folder
 2. You can play a game with other managers. The Dapp will simulate the game result by the value of the player abilities.
 
     Each basketball team member include these abilities: shoot, defense, reaction, strength, speed.
+    
     And the infomation of the basketball player: name, position, height, weight.
     
 3. The abilities of the basketball player can be improved by training. We have 3 ways of traning.
